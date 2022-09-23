@@ -1,0 +1,23 @@
+Basic of Networking
+Network means a group of two or more devices that are connected for a purpose which can be sharing and communication etc. 
+There are major three kinds of Network:
+WAN: Wide Area Network which are deployed on vast geogrophical area for example all over the world. Internet is WAN
+LAN: Local Area Network which are deployed on small location like a building or room where devices are interconnected with wire or wirelessly 
+MAN: Metropolitan Area Network which is Bigger than Local Area but smaller than Wide Area for example connecting two campuses, offices etc
+Internet that is in working is consists of ISP full form Internet Service Provider for example PTCL or Other Telecom Companies then a broadband or router then further
+devices are connected to this router through certain IPs. Some IPs are public and some are private. Ipv4 is running out of addresses due to limited 4.3 billion possible
+addresses while ipv6 is get started working due to larger scalabality of 380 trillion trillion trillion addresses available. There are Model for communication over 
+network, most well renownned is OSI (open System Interconnection ) which is consists of sevel layers. Which are as follow:
+1. Application Layer
+2. Presentation Layer
+3. Session Layer
+4. Transport Layer 
+5. Network Layer 
+6. Data link Layer
+7. Physical Layer
+The practical Implementaion of OSI is TCP/IP which has following layers
+1. Application Layer (presentation and seesion layer included)
+2. Transport Layer
+3. Internet Layer
+4. Network access layer
+
